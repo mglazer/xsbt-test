@@ -14,6 +14,6 @@
     
     <dependencies>
         <!-- Plugins should only depend on pg-client through ivy -->
-		<dependency rev="3.0.5" org="spring" name="spring" conf="compile->default"/>
+		<dependency rev="3.0.6.RELEASE" org="org.springframework" name="spring-core" conf="compile->default"/>
     </dependencies>
 </ivy-module>
